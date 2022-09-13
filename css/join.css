@@ -1,0 +1,56 @@
+.joinMain{
+  text-align: center;
+  background-color: #FFAEAE;
+  margin: 10px;
+  position: relative;
+  justify-content: center;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+padding-bottom: 55px;
+}
+.jFirst{
+  background-color: #fff;
+width: 70%;
+position: relative;
+top : 10px;
+display: inline-block;
+margin: 20px 0;
+border-radius: 20px;
+font-family: 'Jost', sans-serif;
+height: 66px;
+}
+.logoFont{
+  font-family: 'Jost', sans-serif;
+  font-size: 35px;
+  margin-bottom: 10px;
+}.logoSpan{
+  color: red;
+    font-size: 35px;
+}
+.jHeading{
+  font-size: 30px;
+  padding-top: 11px;
+}
+.jSec{
+  background-color: #fff;
+width: 70%;
+position: relative;
+top : 10px;
+display: inline-block;
+border-radius: 20px;
+font-family: 'Jost', sans-serif;
+padding-bottom: 40px;
+height: 384px;
+}
+.b1{
+  width: 312px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: #6F6DDE;
+  border: none;
+  font-size: 20px;
+margin: 27px 0;
+}
+.b1:hover{
+  background-color: #211ee8;
+}
